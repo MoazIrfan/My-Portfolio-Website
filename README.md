@@ -4,7 +4,7 @@ My personal(portfolio) website, built using Next.js(App Router) and Tailwind CSS
 
 ## Live Demo
 
-You can see the website at [moazirfan.com](https://moazirfan.com)
+You can see the website [here](https://moazirfan-site-hpd3ew5dv-moazirfan.vercel.app)
 
 ## Technologies Used
 
